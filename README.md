@@ -25,12 +25,3 @@ cmd
 
 2.waautomation.py
 
-Termux:
-
-Terminal
-
-1.pip install PyWhatKit
-
-2.python waautomation.py
-
-THANK YOU
